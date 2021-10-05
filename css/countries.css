@@ -1,0 +1,12 @@
+#display-countries{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+#singleTeam{
+    border: 3px solid blueviolet;
+    height: 300px;
+    overflow-y: scroll;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+}
